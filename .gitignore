@@ -1,0 +1,11 @@
+*.filters
+*.opensdf
+*.log
+AgarioClone/AgarioClone/Debug/AgarioClone.tlog/AgarioClone.lastbuildstate
+*.tlog
+*.obj
+*.idb
+*.exe
+*.pdb
+*.ilk
+*.sdf
