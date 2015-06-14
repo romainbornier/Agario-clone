@@ -21,5 +21,5 @@ void Log(const char *pDst, const char *pMsg, ...)
 	_vsnprintf(pStr, sizeof(aPrefix) - Len, pMsg, Args);
 
 	va_end(Args);
-	printf(pStr);
+	printf("%s\n", pStr);
 }
